@@ -1,0 +1,11 @@
+* {
+    background-color: rgb(31, 31, 31);
+    color: aliceblue;
+}
+.table  {
+    width: 100%;
+}
+
+.table th, .table td {
+    padding: 20px;
+}
